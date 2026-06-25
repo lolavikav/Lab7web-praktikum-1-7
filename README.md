@@ -53,7 +53,7 @@ Pada praktikum ini dilakukan pengembangan sistem artikel dengan menambahkan fitu
 
 # Cara Instalisasi Proyek
 1. clone dan setup:
-```
+
 
 2. Database
 - Buat Database bernama `lab_ci4`
