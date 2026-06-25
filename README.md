@@ -51,3 +51,17 @@ Pada praktikum ini dilakukan pengembangan sistem artikel dengan menambahkan fitu
 
 Pada praktikum ini dilakukan pengembangan sistem artikel dengan menambahkan fitur **upload gambar** menggunakan Framework CodeIgniter 4. Fitur ini memungkinkan pengguna mengunggah gambar sebagai pelengkap artikel. Implementasi mencakup proses pemilihan file, validasi gambar, penyimpanan file ke server, serta menampilkan gambar yang telah berhasil diunggah pada halaman artikel.
 
+# Cara Instalisasi Proyek
+1. clone dan setup:
+```
+
+2. Database
+- Buat Database bernama `lab_ci4`
+- import file `sql` yang ada di folder `database`
+
+3. Environnment
+- Rename `env` menjadi `.env`
+- Atur `Database.default.unsername` menjadi `Database.default.password` sesuai xampp kita
+
+4. Run
+`php spark serve`
