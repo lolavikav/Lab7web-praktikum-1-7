@@ -104,5 +104,10 @@ Pada praktikum ini dilakukan pengembangan sistem artikel dengan menambahkan fitu
 <img width="606" height="467" alt="image" src="https://github.com/user-attachments/assets/1338ea1b-8312-48fd-9d93-7274bf9a5d6d" />
 <img width="576" height="356" alt="image" src="https://github.com/user-attachments/assets/42cf6e92-6b8c-438c-8ef4-9bb13a3c55e9" />
 
+13. Tampilan chose file untuk menggugah file gambar
+<img width="442" height="453" alt="image" src="https://github.com/user-attachments/assets/23df7346-b99a-4b5e-9acd-e05bc4c99793" />
+<img width="251" height="406" alt="image" src="https://github.com/user-attachments/assets/7341353f-2205-4941-b1af-5d0ecb514140" />
+
+
 
 
