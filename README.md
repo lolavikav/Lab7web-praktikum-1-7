@@ -65,3 +65,34 @@ Pada praktikum ini dilakukan pengembangan sistem artikel dengan menambahkan fitu
 
 4. Run
 `php spark serve`
+
+# Hasil Praktikum
+1. Tampilan Home User
+<img width="638" height="428" alt="image" src="https://github.com/user-attachments/assets/db45d707-0fe4-4a52-acbe-49838d6d5b76" />
+
+2. Tampilan Artikel
+<img width="632" height="476" alt="image" src="https://github.com/user-attachments/assets/2743bb7b-d8f9-49d7-bf8a-10e81fc1ddaf" />
+
+3. Tampilan About
+<img width="703" height="418" alt="image" src="https://github.com/user-attachments/assets/9f269e49-2053-4566-8c12-17d84efd4156" />
+
+4. Tampilan Contact
+<img width="683" height="474" alt="image" src="https://github.com/user-attachments/assets/25c65cad-eafc-4ba1-9aef-90217db9943c" />
+
+5. Dashboard Admin
+<img width="725" height="476" alt="image" src="https://github.com/user-attachments/assets/58100def-0874-4552-80fe-8bae224c4e8c" />
+
+6. Tampilan Tambh Artikel
+<img width="1373" height="930" alt="Screenshot 2026-04-07 224302" src="https://github.com/user-attachments/assets/da207f74-62b2-4d64-808a-349de5af9560" />
+
+7. Tampilan Ubah Artikel
+<img width="1369" height="890" alt="Screenshot 2026-04-07 224323" src="https://github.com/user-attachments/assets/a5f44f89-c62f-4cfc-8009-a2bb54cf41b9" />
+
+8. Fitur Pencarian
+<img width="456" height="151" alt="image" src="https://github.com/user-attachments/assets/5369a338-e1af-4e13-8d39-75d0f321d7ba" />
+
+9. Halaman Login
+<img width="727" height="446" alt="image" src="https://github.com/user-attachments/assets/0bfddd13-ec98-44a0-9b5d-7ef8a00499e2" />
+
+
+
