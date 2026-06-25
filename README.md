@@ -71,7 +71,7 @@ Pada praktikum ini dilakukan pengembangan sistem artikel dengan menambahkan fitu
 <img width="638" height="428" alt="image" src="https://github.com/user-attachments/assets/db45d707-0fe4-4a52-acbe-49838d6d5b76" />
 
 2. Tampilan Artikel
-<img width="632" height="476" alt="image" src="https://github.com/user-attachments/assets/2743bb7b-d8f9-49d7-bf8a-10e81fc1ddaf" />
+<img width="1433" height="826" alt="Screenshot 2026-04-07 220117" src="https://github.com/user-attachments/assets/82bba80b-72f8-4c8b-9308-4a2185768eec" />
 
 3. Tampilan About
 <img width="703" height="418" alt="image" src="https://github.com/user-attachments/assets/9f269e49-2053-4566-8c12-17d84efd4156" />
@@ -93,6 +93,16 @@ Pada praktikum ini dilakukan pengembangan sistem artikel dengan menambahkan fitu
 
 9. Halaman Login
 <img width="727" height="446" alt="image" src="https://github.com/user-attachments/assets/0bfddd13-ec98-44a0-9b5d-7ef8a00499e2" />
+
+10. Daftar Artikel yg berisi label kategori
+<img width="632" height="476" alt="Screenshot 2026-06-25 192018" src="https://github.com/user-attachments/assets/a36282ba-91fe-4bcb-9c46-13313fab7c92" />
+
+11. Form tambah & Artikel yg berisi label kategori
+<img width="687" height="471" alt="image" src="https://github.com/user-attachments/assets/89dd48ba-676a-447b-bdf8-269f8631421f" />
+
+12. Edit kategori artikel
+<img width="606" height="467" alt="image" src="https://github.com/user-attachments/assets/1338ea1b-8312-48fd-9d93-7274bf9a5d6d" />
+<img width="576" height="356" alt="image" src="https://github.com/user-attachments/assets/42cf6e92-6b8c-438c-8ef4-9bb13a3c55e9" />
 
 
 
